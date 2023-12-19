@@ -18,7 +18,6 @@
    background: #000;
    background-clip: border-box;
    border-radius: 10px;
-   cursor: pointer;
    transition: 0.7s;
    max-width: 400px;
    overflow: hidden;
