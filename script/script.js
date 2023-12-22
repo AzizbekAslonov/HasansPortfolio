@@ -155,7 +155,7 @@ function init() {
    }
 
    // Animation
-   new TypeWriter(document.querySelector('.txt-type'), ["Frontend Developer", "Backend Developer"], 2000);
+   new TypeWriter(document.querySelector('.txt-type'), ["Full Stack Developer"], 2000);
 
    // My Works slider
    new Swiper('.swiper-container', {
